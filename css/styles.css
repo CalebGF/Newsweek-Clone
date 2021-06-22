@@ -1,0 +1,24 @@
+@font-face {
+    font-family: merit;
+    src: url(fonts/Merit.ttf);
+    font-weight: bold;
+  }
+
+.hero {
+    background-color: #F72210;
+    color: #fff;
+    height: 95px;
+}
+
+.date {
+    margin-top: 10%;
+    margin-left: 20px;
+}
+
+h1 {
+    font-family: merit;
+    font-size: 5rem;
+    font-weight: 400;
+    margin: 0;
+}
+
